@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react , next , Typescript**
 
-- 📫 How to reach me **jayrajshakha01@gmail.com**
+- 📫 How to reach me **jay@finovian.com**
 
 - ⚡ Fun fact **I think I am not funny**
 
